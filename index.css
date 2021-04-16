@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.anh{
+width: 100%;
+height: 600px;
+position: relative;
+}
+form{
+position: absolute;
+top: 150px;
+left: 37%;
+}
+p{
+text-align: center;
+}
